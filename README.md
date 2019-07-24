@@ -7,3 +7,4 @@
 
 简单terminal**界面**
 
+**注意** mysql必须多预留一列log*
